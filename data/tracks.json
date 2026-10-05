@@ -1,0 +1,362 @@
+[
+  {
+    "id": "call-me-maybe",
+    "title": "Call Me Maybe",
+    "artist": "Carly Rae Jepsen",
+    "bpm": 120,
+    "camelotKey": "5B",
+    "energy": 6,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "blurred-lines",
+    "title": "Blurred Lines",
+    "artist": "Robin Thicke",
+    "bpm": 120,
+    "camelotKey": "11B",
+    "energy": 6,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "happy",
+    "title": "Happy",
+    "artist": "Pharrell Williams",
+    "bpm": 160,
+    "camelotKey": "4B",
+    "energy": 7,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "uptown-funk",
+    "title": "Uptown Funk",
+    "artist": "Mark Ronson",
+    "bpm": 115,
+    "camelotKey": "4B",
+    "energy": 7,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "shake-it-off",
+    "title": "Shake It Off",
+    "artist": "Taylor Swift",
+    "bpm": 160,
+    "camelotKey": "9B",
+    "energy": 7,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "blank-space",
+    "title": "Blank Space",
+    "artist": "Taylor Swift",
+    "bpm": 96,
+    "camelotKey": "5A",
+    "energy": 5,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "sorry",
+    "title": "Sorry",
+    "artist": "Justin Bieber",
+    "bpm": 100,
+    "camelotKey": "8A",
+    "energy": 6,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "sugar",
+    "title": "Sugar",
+    "artist": "Maroon 5",
+    "bpm": 120,
+    "camelotKey": "1B",
+    "energy": 6,
+    "genre": "2010s Pop"
+  },
+  {
+    "id": "beauty-and-a-beat",
+    "title": "Beauty and a Beat",
+    "artist": "Justin Bieber",
+    "bpm": 128,
+    "camelotKey": "11B",
+    "energy": 7,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "we-found-love",
+    "title": "We Found Love",
+    "artist": "Rihanna",
+    "bpm": 128,
+    "camelotKey": "7B",
+    "energy": 8,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "titanium",
+    "title": "Titanium",
+    "artist": "David Guetta",
+    "bpm": 126,
+    "camelotKey": "8B",
+    "energy": 8,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "clarity",
+    "title": "Clarity",
+    "artist": "Zedd",
+    "bpm": 128,
+    "camelotKey": "1A",
+    "energy": 8,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "one-kiss",
+    "title": "One Kiss",
+    "artist": "Calvin Harris",
+    "bpm": 124,
+    "camelotKey": "4A",
+    "energy": 7,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "this-is-what-you-came-for",
+    "title": "This Is What You Came For",
+    "artist": "Calvin Harris",
+    "bpm": 124,
+    "camelotKey": "5A",
+    "energy": 7,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "where-are-u-now",
+    "title": "Where Are Ü Now",
+    "artist": "Skrillex",
+    "bpm": 140,
+    "camelotKey": "12A",
+    "energy": 8,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "dont-start-now",
+    "title": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "bpm": 124,
+    "camelotKey": "11B",
+    "energy": 7,
+    "genre": "Dance Pop"
+  },
+  {
+    "id": "levels",
+    "title": "Levels",
+    "artist": "Avicii",
+    "bpm": 126,
+    "camelotKey": "5A",
+    "energy": 8,
+    "genre": "EDM"
+  },
+  {
+    "id": "wake-me-up",
+    "title": "Wake Me Up",
+    "artist": "Avicii",
+    "bpm": 124,
+    "camelotKey": "9B",
+    "energy": 8,
+    "genre": "EDM"
+  },
+  {
+    "id": "dont-you-worry-child",
+    "title": "Don't You Worry Child",
+    "artist": "Swedish House Mafia",
+    "bpm": 129,
+    "camelotKey": "6A",
+    "energy": 9,
+    "genre": "EDM"
+  },
+  {
+    "id": "animals",
+    "title": "Animals",
+    "artist": "Martin Garrix",
+    "bpm": 128,
+    "camelotKey": "6A",
+    "energy": 9,
+    "genre": "EDM"
+  },
+  {
+    "id": "tremor",
+    "title": "Tremor",
+    "artist": "Dimitri Vegas & Like Mike",
+    "bpm": 128,
+    "camelotKey": "8A",
+    "energy": 9,
+    "genre": "EDM"
+  },
+  {
+    "id": "tsunami",
+    "title": "Tsunami",
+    "artist": "DVBBS & Borgeous",
+    "bpm": 130,
+    "camelotKey": "10A",
+    "energy": 10,
+    "genre": "EDM"
+  },
+  {
+    "id": "reload",
+    "title": "Reload",
+    "artist": "Sebastian Ingrosso",
+    "bpm": 128,
+    "camelotKey": "4A",
+    "energy": 9,
+    "genre": "EDM"
+  },
+  {
+    "id": "summer",
+    "title": "Summer",
+    "artist": "Calvin Harris",
+    "bpm": 128,
+    "camelotKey": "11A",
+    "energy": 8,
+    "genre": "EDM"
+  },
+  {
+    "id": "one-more-time",
+    "title": "One More Time",
+    "artist": "Daft Punk",
+    "bpm": 123,
+    "camelotKey": "2B",
+    "energy": 7,
+    "genre": "House"
+  },
+  {
+    "id": "music-sounds-better",
+    "title": "Music Sounds Better With You",
+    "artist": "Stardust",
+    "bpm": 124,
+    "camelotKey": "9A",
+    "energy": 6,
+    "genre": "House"
+  },
+  {
+    "id": "show-me-love",
+    "title": "Show Me Love",
+    "artist": "Robin S",
+    "bpm": 122,
+    "camelotKey": "8A",
+    "energy": 7,
+    "genre": "House"
+  },
+  {
+    "id": "finally",
+    "title": "Finally",
+    "artist": "CeCe Peniston",
+    "bpm": 126,
+    "camelotKey": "6B",
+    "energy": 7,
+    "genre": "House"
+  },
+  {
+    "id": "lolas-theme",
+    "title": "Lola's Theme",
+    "artist": "The Shapeshifters",
+    "bpm": 128,
+    "camelotKey": "4A",
+    "energy": 8,
+    "genre": "House"
+  },
+  {
+    "id": "insomnia",
+    "title": "Insomnia",
+    "artist": "Faithless",
+    "bpm": 127,
+    "camelotKey": "3A",
+    "energy": 7,
+    "genre": "House"
+  },
+  {
+    "id": "you-dont-know-me",
+    "title": "You Don't Know Me",
+    "artist": "Jax Jones",
+    "bpm": 124,
+    "camelotKey": "7A",
+    "energy": 7,
+    "genre": "House"
+  },
+  {
+    "id": "piece-of-me",
+    "title": "Piece of Me",
+    "artist": "MK",
+    "bpm": 122,
+    "camelotKey": "1A",
+    "energy": 6,
+    "genre": "House"
+  },
+  {
+    "id": "losing-it",
+    "title": "Losing It",
+    "artist": "Fisher",
+    "bpm": 125,
+    "camelotKey": "8A",
+    "energy": 8,
+    "genre": "Tech House"
+  },
+  {
+    "id": "you-little-beauty",
+    "title": "You Little Beauty",
+    "artist": "Fisher",
+    "bpm": 124,
+    "camelotKey": "9A",
+    "energy": 8,
+    "genre": "Tech House"
+  },
+  {
+    "id": "cola",
+    "title": "Cola",
+    "artist": "CamelPhat",
+    "bpm": 122,
+    "camelotKey": "4A",
+    "energy": 7,
+    "genre": "Tech House"
+  },
+  {
+    "id": "turn-off-the-lights",
+    "title": "Turn Off the Lights",
+    "artist": "Chris Lake",
+    "bpm": 126,
+    "camelotKey": "10A",
+    "energy": 8,
+    "genre": "Tech House"
+  },
+  {
+    "id": "be-no-one",
+    "title": "Be No One",
+    "artist": "Chris Lake",
+    "bpm": 126,
+    "camelotKey": "5B",
+    "energy": 8,
+    "genre": "Tech House"
+  },
+  {
+    "id": "la-la-land",
+    "title": "La La Land",
+    "artist": "Green Velvet",
+    "bpm": 128,
+    "camelotKey": "2A",
+    "energy": 7,
+    "genre": "Tech House"
+  },
+  {
+    "id": "yeah",
+    "title": "Yeah",
+    "artist": "Green Velvet",
+    "bpm": 126,
+    "camelotKey": "6A",
+    "energy": 8,
+    "genre": "Tech House"
+  },
+  {
+    "id": "the-feeling",
+    "title": "The Feeling",
+    "artist": "Fisher",
+    "bpm": 123,
+    "camelotKey": "11A",
+    "energy": 7,
+    "genre": "Tech House"
+  }
+]

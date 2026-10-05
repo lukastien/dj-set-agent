@@ -38,3 +38,16 @@ body {
 .set-in {
   animation: set-in 0.35s ease;
 }
+
+@keyframes indeterminate {
+  0% {
+    transform: translateX(-120%);
+  }
+  100% {
+    transform: translateX(350%);
+  }
+}
+
+.loading-bar {
+  animation: indeterminate 1.35s ease-in-out infinite;
+}
